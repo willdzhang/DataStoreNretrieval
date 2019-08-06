@@ -1,4 +1,4 @@
-## Step 1 - Climate Analysis and Exploration
+## Climate Analysis and Exploration
 
 Python and SQLAlchemy used to do basic climate analysis and data exploration of climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
